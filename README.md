@@ -1,4 +1,4 @@
-<h1>Student-Management-System</h1>
+<h1>Student Management System</h1>
 
 <p>Python Mini Project </p>
 
