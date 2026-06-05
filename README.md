@@ -27,4 +27,6 @@
   <li>Proper layout management</li>
 </ul>
 
-<img src ="Student-Management-System/Layout Images/Screenshot from 2026-06-05 20-20-00.png">
+<img src="iLayout Images/Screenshot from 2026-06-05 20-20-00.png" alt="A descriptive text of the image">
+
+<img src ="Layout Images/Screenshot from 2026-06-05 20-20-00.png">
