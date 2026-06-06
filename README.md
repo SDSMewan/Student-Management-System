@@ -27,6 +27,47 @@
   <li>Proper layout management</li>
 </ul>
 
+<h3>Python Programming Concepts</h3>
+
+<h4>Basic Python</h4>
+<ul>
+  <li>Variables</li>
+  <li>Functions (at least 5 user-defined functions)</li>
+  <li>Proper modular structure</li>
+</ul>
+
+<h4>Control Structures </h4>
+<ol>
+  <li>if–else conditions</li>
+  <li>for or while loops</li>
+  <li>Input validation</li>
+</ol>
+
+<h4>Data Structures </h4>
+<p>You must use:</p>
+<ul>
+  <li>List → Store multiple records</li>
+  <li>Dictionary → Store structured data</li>
+  <li>Tuple → Store fixed information </li>
+  <li> Set → Prevent duplicate entries</li>
+</ul>
+<p>Explain in comments where and why each structure is used</p>
+
+<h3>File Handling </h3>
+<p>Your system must:</p>
+<ul>
+  <li>Save data to a file </li>
+  <li>Read data from file when program starts</li>
+  <li>Update file when data changes</li>
+  <li>Handle file errors properly</li>
+</ul>
+
+
+
+
+
+
+
 <img src="Layout Images/Screenshot from 2026-06-05 20-20-00.png" alt="Layout out image">
 
 
