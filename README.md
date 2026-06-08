@@ -1,6 +1,10 @@
 <h1>Student Management System</h1>
 
-<p>Python Mini Project </p>
+<p>It has been a great pleasure for me to work on this exciting and challenging project. This
+project proved good for me as it provided practical knowledge of not only programming
+in Python based applications.
+It also provides knowledge about the latest technology used in development.e. This will
+provide better opportunities and guidance in future in developing projects independently.</p>
 
 <h2>Objective</h2>
 <p>This mini project aims to evaluate your understanding of:</p>
@@ -66,7 +70,7 @@
 
 
 
-
+<h2>GUI Layout Image</h2>
 
 <img src="Layout Images/Screenshot from 2026-06-05 20-20-00.png" alt="Layout out image">
 
